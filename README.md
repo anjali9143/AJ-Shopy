@@ -1,1 +1,0 @@
-"# AJ-Shopy"  "# AJ-Shopy" 
