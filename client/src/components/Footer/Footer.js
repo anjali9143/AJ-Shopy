@@ -1,12 +1,12 @@
-import './Footer.css'
-import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
 import EmailIcon from '@mui/icons-material/Email';
-import LocationOnIcon from '@mui/icons-material/LocationOn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import YouTubeIcon from '@mui/icons-material/YouTube';
-import TwitterIcon from '@mui/icons-material/Twitter';
-import TelegramIcon from '@mui/icons-material/Telegram';
+import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
+import LocationOnIcon from '@mui/icons-material/LocationOn';
 import PinterestIcon from '@mui/icons-material/Pinterest';
+import TelegramIcon from '@mui/icons-material/Telegram';
+import TwitterIcon from '@mui/icons-material/Twitter';
+import YouTubeIcon from '@mui/icons-material/YouTube';
+import './Footer.css';
 
 const Footer = () => {
     return ( 
@@ -41,7 +41,7 @@ const Footer = () => {
                                 <LocalPhoneIcon /> <span>+123 4567 890</span>
                             </li>
                             <li className="footer__contact">
-                                <EmailIcon /> <span>shop@shema.com</span>
+                                <EmailIcon /> <span>shop@AJShopy.com</span>
                             </li>
                             <li className="footer__contact">
                                 <LocationOnIcon /> <span>Addis Ababa, Ethiopia</span>
